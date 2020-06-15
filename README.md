@@ -20,6 +20,10 @@ Target Variable: labels
 ## Evaluation
 The leaderboard is evaluated using F1 Score for the participant’s submission.
 
+## Rank: 148
+
+![insurance](https://user-images.githubusercontent.com/56091634/84693685-83710000-af65-11ea-8ef3-0f9182d894da.png)
+
 ## Online score : 0.5310559
 
 ## Local score : 0.5025970122273735
